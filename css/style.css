@@ -1,0 +1,40 @@
+.slider h3,
+.slider h2 {
+	text-shadow: 1px 1px 3px rgba( 255, 215, 0, 1 );
+	font-family: Didot; font-weight: 900;
+}
+.slider img {
+	opacity: 0.5;
+}
+.container h3 {
+	font-family: optima;
+}
+.nav-wrapper a, {
+	font-family: optima;
+	max-width: 250%;
+}
+.parallax-container {
+	height: 20%;
+}
+.parallax img {
+	opacity: 0.50 !important;
+}
+.nav-wrapper li {
+	margin: 0;
+	padding: 0;
+}
+.row img {
+  width: 30%;
+  height: 30%;
+}
+footer {
+	padding: 20px 0;
+}
+.jumbotron {
+	padding: 2rem 1rem;
+	background-color: #9ccc65;
+	font-family: Monotype Corsiva;
+}
+.card-panel {
+	font-family: Book Antiqua;
+}
